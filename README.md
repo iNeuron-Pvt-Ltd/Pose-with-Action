@@ -14,18 +14,12 @@
 
 ## ⏳ Dataset
 - Download the dataset for custom training
-- https://drive.google.com/drive/folders/1MBEu1T9_EfdPQFm2yB1KwZU90vJ2ACtf?usp=sharing 
+- https://drive.google.com/drive/folders/1CFxvuigTzbnRXUojFeCRozxjUbYiQ8RM?usp=sharing 
 
-## 💻 Requirements
-Python 3.8 or later with all [requirements.txt](https://github.com/iNeuron-ai/Head-Count/blob/main/requirements.txt) dependencies installed.
-- To install run :-
-```bash
-$ pip install -r requirements.txt
-```
-## 🏽‍ Download YOLOv5 weights
-- Download the weight **yolov5m.pt** file from following Drive Link
+## 🏽‍ Download Object Detection Model
+- Download the object detection model manually : **yolov3-spp.weights** file from following Drive Link
 - https://drive.google.com/file/d/1-dAgUMwN7SH9cRsRie_A78we_5_I0-8L/view?usp=sharing
-- Download the weight file and put into " **yolov5/weights/** " folder.
+- Download the weight file and Place it into **" detector/yolo/data/ "** folder.
 
 ##  🏽‍ Download Deep Sort weights
 - Download the 'Ckpt.t7' model from following Drive Link 
