@@ -1,0 +1,3 @@
+#Download Yolov3 weights from following drive link and put in this current folder
+
+https://drive.google.com/file/d/1h2g_wQ270_pckpRCHJb9K78uDf-2PsPd/view?usp=sharing
