@@ -24,7 +24,7 @@
 ##  🏽‍ For Pose Tracking, Download the object tracking model
 - For pose tracking, download the object tracking model manually: **" JDE-1088x608-uncertainty "** from following Drive Link 
 - https://drive.google.com/file/d/1oeK1aj9t7pTi1u70nSIwx0qNVWvEvRrf/view?usp=sharing
-- Download the file and Place it into **" detector/tracker/data ".** folder.
+- Download the file and Place it into **" detector/tracker/data/ ".** folder.
 
 ## 🏽‍ Download Fast.res50.pt file
 - Download the **" fast.res50.pth "** file from following Drive Link 
@@ -88,3 +88,4 @@ $ python scripts/demo_inference.py --cfg configs/coco/resnet/256x192_res50_lr1e-
 
 ```
 ## Contributors <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> 
+
