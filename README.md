@@ -88,4 +88,19 @@ $ python scripts/demo_inference.py --cfg configs/coco/resnet/256x192_res50_lr1e-
 
 ```
 ## Contributors <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> 
+- Akshay Kumar Prasad	
+- Akshay Namdev Kadam	
+- Arjun K	
+- ATUL KUMAR	
+- Deepak Kumar Behera	
+- Jerryl Davis	
+- Kancharla Bharath Kumar	
+- Karthik P	
+- Madhavi Patel	
+- Mukesh	
+- Oinam Bhobendra	
+- pamita singh kandari	
+- Sameer sudhir Deshmukh	
+- Sasidharan M	
+- shrinivas kandlikar
 
