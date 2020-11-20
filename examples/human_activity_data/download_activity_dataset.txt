@@ -1,0 +1,3 @@
+#Download Activity dataset from following drive link and put in this current folder
+
+https://drive.google.com/drive/folders/1CFxvuigTzbnRXUojFeCRozxjUbYiQ8RM?usp=sharing

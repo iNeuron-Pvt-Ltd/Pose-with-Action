@@ -1,0 +1,3 @@
+#Download Fast_res50 weights from following drive link and put in this current folder
+
+https://drive.google.com/file/d/1WrvycZnVWwltSa6cjeTznEFOyNAwHEZu/view?usp=sharing
