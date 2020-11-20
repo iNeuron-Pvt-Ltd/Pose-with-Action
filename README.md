@@ -1,5 +1,7 @@
-## :running: :walking: :dancer: Pose-with-Action
+## :running: :walking: :dancer: Pose-With-Action
 ![pose_with_action](https://user-images.githubusercontent.com/62059604/99776776-5db0de00-2b37-11eb-97e7-b39f53f2d703.gif)
+![2](https://user-images.githubusercontent.com/62059604/99799119-27378b00-2b58-11eb-92e5-0d119109fc60.png)
+![1](https://user-images.githubusercontent.com/62059604/99799139-31598980-2b58-11eb-97dc-4626fdcec6f0.png)
 - This repository represents **" Action Recognition Using Alphapose "**.
 - With the help of this project we can detect the human Actions/Activities based on the **Human Pose**.
   
