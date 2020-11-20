@@ -82,7 +82,7 @@ $ pip install -U PyYAML
 $ python scripts/demo_inference.py --cfg configs/coco/resnet/256x192_res50_lr1e-3_1x.yaml --checkpoint pretrained_models/fast_res50_256x192.pth --indir examples/demo/ --save_img
 
 ```
-1. Testing with **Video** ( Put test video in **AlphaPose/examples/demo/** )  :-
+2. Testing with **Video** ( Put test video in **AlphaPose/examples/demo/** )  :-
 ```bash
 $ python scripts/demo_inference.py --cfg configs/coco/resnet/256x192_res50_lr1e-3_1x.yaml --checkpoint pretrained_models/fast_res50_256x192.pth --video examples/demo/3.mp4 --outdir examples/res1 --save_video --gpus 0
 
