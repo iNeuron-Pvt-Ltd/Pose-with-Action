@@ -31,9 +31,9 @@
 - https://drive.google.com/file/d/1WrvycZnVWwltSa6cjeTznEFOyNAwHEZu/view?usp=sharing
 - Download the file and Place it into **" pretrained_models/ ".** folder.
 
-## Installation
+## :desktop_computer:	Installation
 
-### Requirements
+### :hammer_and_wrench: Requirements
 * Python 3.5+
 * Cython
 * PyTorch 1.1+
@@ -41,7 +41,7 @@
 * Linux
 * GCC<6.0, check https://github.com/facebookresearch/maskrcnn-benchmark/issues/25
 
-## 🎯 Setup
+## :gear: Setup
 1. Install PyTorch :-
 ```bash
 $ pip3 install torch==1.1.0 torchvision==0.3.0
