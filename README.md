@@ -23,7 +23,7 @@
 
 ##  🏽‍ For Pose Tracking, Download the object tracking model
 - For pose tracking, download the object tracking model manually: **" JDE-1088x608-uncertainty "** from following Drive Link 
-- https://drive.google.com/file/d/1oeK1aj9t7pTi1u70nSIwx0qNVWvEvRrf/view?usp=sharing
+- https://drive.google.com/u/0/uc?id=1nlnuYfGNuHWZztQHXwVZSL_FvfE551pA&export=download
 - Download the file and Place it into **" detector/tracker/data/ ".** folder.
 
 ## 🏽‍ Download Fast.res50.pt file
